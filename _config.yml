@@ -251,7 +251,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
   # _publications
@@ -260,7 +260,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
   # _portfolio
@@ -269,7 +269,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
       comment: false
   # _talks
@@ -278,7 +278,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
+      author_profile: true
       share: false
 
 
