@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+# author_profile: true
 ---
 
 Undergraduate Courses Taught
