@@ -8,7 +8,6 @@ Working Papers
 ---
 "It's About Time: Transitioning to Time-of-Use Pricing and Consumer Demand for Electricity" (Job Market
 Paper)
-* [Preliminary Draft](https://gkir.github.io/files/kirwinjmp.pdf)
 
 Works in Progress
 ---
