@@ -8,7 +8,6 @@ Working Papers
 ---
 "It's About Time: Transitioning to Time-of-Use Pricing and Consumer Demand for Electricity" (Job Market
 Paper)
-* Draft coming soon
 
 Works in Progress
 ---
